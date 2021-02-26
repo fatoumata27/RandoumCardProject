@@ -1,3 +1,9 @@
 tasks:
   - init: 'echo "TODO: Replace with init/build command"'
     command: 'echo "TODO: Replace with command to start project"'
+
+vscode:
+  extensions:
+    - tmrdh.symfony-helper@1.0.8:P2smkxry67yPfta6YfmWRQ==
+    - ecmel.vscode-html-css@1.9.1:IxAxIfaC6OW70vfl5VyKbg==
+    - abusaidm.html-snippets@0.2.1:HrYIjYqOIABbxFB9g9kqXQ==

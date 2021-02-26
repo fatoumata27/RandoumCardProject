@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/twig-bundle": "^5.2",
+        "symfony/dependency-injection": "^5.2"
+    }
+}
